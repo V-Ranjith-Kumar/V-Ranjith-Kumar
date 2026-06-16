@@ -5,7 +5,7 @@ Student at R.M.K. College of Engineering and Technology
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 - 🔭 Here's my [portfolio](https://portfolio-ranjith-kumar.vercel.app/)                                 
-- 🌱 I’m currently learning DSA and Integrating Web-Development and App Development to my workflow
+- 🌱 I’m currently learning DSA and IntegratingI web and app development into my workflow
 
 ### Connect with me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ranjith-kumar-v-10915b34a/) 
