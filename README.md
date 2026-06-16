@@ -20,6 +20,6 @@ Student at R.M.K. College of Engineering and Technology
 
 ### 📊 GitHub Analytics
 
-![Ranjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=VSRK2007&theme=dark&show_icons=true&hide=issues,contribs)
+![Ranjith's GitHub stats](https://github-readme-stats.vercel.app/api?username=V-Ranjith-Kumar&theme=dark&show_icons=true&hide=issues,contribs)
 
-![Ranjith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VSRK2007&bg_color=0d1117&color=c9d1d9&line=51f565&point=ffffff&area=true&hide_border=true)
+![Ranjith's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=V-Ranjith-Kumar&bg_color=0d1117&color=c9d1d9&line=51f565&point=ffffff&area=true&hide_border=true)
